@@ -1,4 +1,4 @@
-package basic.com.vc;
+package vc;
 
 public class ArrayHighestElement {
     public static void main(String[] args) {

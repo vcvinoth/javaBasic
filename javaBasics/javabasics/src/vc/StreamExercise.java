@@ -1,4 +1,4 @@
-package basic.com.vc;
+package vc;
 
 import java.util.Arrays;
 import java.util.Collections;

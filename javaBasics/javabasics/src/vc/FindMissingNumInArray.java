@@ -1,4 +1,4 @@
-package basic.com.vc;
+package vc;
 
 public class FindMissingNumInArray {
     public static void main(String[] args) {
