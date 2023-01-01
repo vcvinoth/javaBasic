@@ -1,4 +1,4 @@
-package vc;
+package com.org.vc;
 
 public class CheckNumericOrAlphabet {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package vc;
+package com.org.vc;
 
 public class Notes {
 
