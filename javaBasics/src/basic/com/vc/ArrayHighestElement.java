@@ -3,7 +3,7 @@ package basic.com.vc;
 public class ArrayHighestElement {
     public static void main(String[] args) {
         int[] intArray = {2, 9, 5, 6, 8, 7};
-        System.out.println("Second Max : " + findSecondMax(intArray));
+        System.out.println("Second Max  : " + findSecondMax(intArray));
         System.out.println(" Nth Max : " +findNthMax(intArray,4));
     }
 
