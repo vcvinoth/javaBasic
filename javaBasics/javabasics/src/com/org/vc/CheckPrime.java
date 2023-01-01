@@ -1,4 +1,4 @@
-package basic.com.vc;
+package com.org.vc;
 
 import java.util.Scanner;
 

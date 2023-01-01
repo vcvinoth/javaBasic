@@ -1,4 +1,4 @@
-package basic.com.vc;
+package com.org.vc;
 
 public class PairsOfElementsInArray {
     public static void main(String[] args) {

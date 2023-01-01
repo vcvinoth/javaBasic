@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/AsynchProgramming/AsynchProgramming.iml" filepath="$PROJECT_DIR$/AsynchProgramming/AsynchProgramming.iml" />
       <module fileurl="file://$PROJECT_DIR$/designPattern/designPattern.iml" filepath="$PROJECT_DIR$/designPattern/designPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaBasics.iml" filepath="$PROJECT_DIR$/javaBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javabasics/javabasics.iml" filepath="$PROJECT_DIR$/javabasics/javabasics.iml" />
     </modules>
   </component>
 </project>
